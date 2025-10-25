@@ -1,0 +1,17 @@
+.container-footer {
+    position: relative;
+    right: 30px;
+    height: 10vh;
+    width: 400px;
+    background-color: hwb(0 39% 56%);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius: 20px;
+}
+
+.h1-footer {
+    font-size: 20px;
+    font-style: oblique;
+    color: rgb(255, 166, 0);
+}
